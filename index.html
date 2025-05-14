@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, shrink-to-fit=no">
+
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="googlebot" content="noindex, nofollow">
+
+  <meta name="format-detection" content="telephone=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Koodall AI</title>
+
+
+  <!-- <link rel="apple-touch-icon" sizes="180x180" href="../media/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../media/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../media/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="../media/images/favicon/site.webmanifest">
+  <link rel="mask-icon" href="../media/images/favicon/safari-pinned-tab.svg" color="#5bbad5"> -->
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" href="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/main-TWhz9FtmAbq2givZFFJKgbBdZCLa6T.css">
+  <style>
+    /* 现代化背景动画 */
+    body {
+      background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
+      min-height: 100vh;
+    }
+
+    @keyframes gradient {
+      0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
+    }
+
+    /* Logo 样式 */
+    .cheerway-logo {
+      position: fixed;
+      top: 30px;
+      left: 30px;
+      width: 180px;
+      height: auto;
+      z-index: 1000;
+      filter: drop-shadow(0 0 10px rgba(255,255,255,0.5));
+    }
+
+    /* 标题样式 */
+    .section__title {
+      font-family: "Microsoft JhengHei", "微軟正黑體", sans-serif;
+      font-size: 2.5rem;
+      color: #ffffff;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+      text-align: center;
+      margin-bottom: 2rem;
+      animation: titleFloat 3s ease-in-out infinite;
+    }
+
+    @keyframes titleFloat {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+
+    /* 主容器样式 */
+    .section {
+      padding: 2rem;
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      border-radius: 20px;
+      margin: 2rem auto;
+    }
+
+    /* 玻璃态效果 */
+    .webar-sdk {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      border-radius: 20px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    }
+  </style>
+</head>
+
+<body class="page page-design-2022  ">
+  <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/cheerway-logo-DgbPYUAGGm6dDkEUI0nyxy2C0g94Xm.svg" alt="Cheerway Logo" class="cheerway-logo">
+  <div class="preloader js-preloader"></div>
+  <div class="page__inner">
+<img width="99999" height="99999" style="pointer-events:none;position:absolute;top:0;left:0;width:95vw;height:97vh;max-width:95vw;max-height:97vh;" alt src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAABkCAQAAAC/MNJRAAABTklEQVR42u3VAREAAAQEMJ9cdHJwW4llugCA4yJ0ABA6ACB0AEDoAIDQAUDoAIDQAQChAwBCBwChAwBCBwCEDgAIHQCEDgAIHQAQOgAgdAAQOgAgdABA6ACA0AFA6ACA0AEAoQMAQgcAoQMAQgcAhA4ACB0AhA4ACB0AEDoAIHQAEDoAIHQAQOgAgNABQOgAgNABAKEDAEIHAKEDAEIHAIQOAAgdABA6AAgdABA6ACB0AEDoACB0AEDoAIDQAQChA4DQAQChAwBCBwCEDgBCBwCEDgAIHQAQOgAIHQAQOgAgdABA6AAgdABA6ACA0AEAoQOA0AEAoQMAQgcAhA4AQgcAhA4ACB0AEDoACB0AEDoAIHQAQOgAIHQAQOgAgNABAKEDgNCFDgBCBwCEDgAIHQAQOgAIHQAQOgAgdABA6AAgdABA6ACA0AEAoQPARwviGJWdlo8VJQAAAABJRU5ErkJggg==">
+
+<main class="page__content ">
+<section class="section" id="realtime">
+  <div class="container">
+    <header class="section__header">
+      <h2 class="section__title">網頁即時 3D 擴增實境</h2>
+    </header>
+    <div class="section__content">
+      <div class="webar-sdk js-webar-sdk" data-path="" data-client-token="Qk5CION50Y7Qs5+WW9vaHqm1LlKZTMz/2QWok0X9gE9I4iHVtAK0nRryudn2WDgttEYDsR2PGZNQwYMLEbNgjK0UOFYSxlNoT1cBkFmutiIOzjJVcwAaSzG/mLc7Bg5/BuUz+dSBtWeuXPBuaJ/oeupO+2JYm4ZWHBVqwIhIEYJMi3vQ5WK07ftZBAUe6+vPBcbByXZujOxJWbCYUg+0RQ1XaQ9KkLdZIo0o0bZ5oSTFi0p9JJWmwjny8ofEp9fpAL3KlvqqEiztqUEit4TyKVMgplwaAebFWX87giw+7QIjOxqt++GUDD46iyupBj8FBLMdqcJyD5BXGXbEgA+0M5VIZlRfs8tSKF6nYF7f+n7/kdlSl0jbxB0ZrHhOiSMfd2WPCxRZN2kDTA1kPiLYwd5Shuht0kmeowgm89gS9nwBS2Q5geARt6mhg/PItQetbRKcnKdmxZAHsJInW0PwTWdNqbHbqF4itkf1gjzvAycuecDpJnh8ZV2QT1bTL/MDdmXqocY5isLmrICykV+zVvqxNtr8kQzaaI0/LKk039yrZJzHNnyoTpCCTRZXtw0Q2WRelswmtRoz/ezSE6jPxYm0oVYthndK5gphfRs+ZZkZvHGAB8sFd+n+ieBKO6OlRyr7ehNHYqPyc6EbxqcnYvS4zUTUJunjHs7Qz241BMNp8Ex/QUEFhCoFD0s5isRHV6IGRsq3nnkR/9tOCYa787D5y1deQ6tbgKsnl/WHiqC/66HfHMYVPqBjdCuLJYKnV5bsb0+7zmoyEvguzhLOs36rUCop6yaVFTxRGbUu8z+CP2vrCm+D3CdTl6EexanNXJx4igLOe0ohVbH51rpKDs/lyuY52W5Z0LSFXXhxx+cd7ZV+KXCXDiI3JxiMtr2rQ5oYISwtLIDOUNrfZ/Z1+aVrcrqNbhL0MFYM2HwqWIrWg9SFJEC+jh02f6JRCztvQJB8mKU4xYp61apiK4uFeRlCPV7K7P89H8i/UAPxiM2zgPCbtMySrsbmIBY7uDtyLfA313uglD0ZxbjU8fixxQ5krlxXceTZ96naU0HXjfwOW1QxojEmvtAa7F67RVzvC8CXsz4AL4hdrPrVs2K8s5pr9zOgaSSxy0lNiXsK7eeuee0PICZHIhkc+TekUcxq++NlD02obP7YoyrnLppVI89n276O6wUk6RDYhHG5wHbECcjXmUGnL3xLB3zGpBIy9bd4RMXRjeTEM1sbdtfmB8zaBag/hE4HfAWCOMmgzTIEwOngZEhs9SU4v+x1ehUGjq+z4ZpgrIrlOkZ5N3SIU+W5aK4vbwP/rm2zcYjFlI8VEtSyQZ8dt/LKzjeF+lvL9DLZScPLocweFnzgPab4smNDAoUtdaFT0s1am4BrZz4TXklKKEZTeia+V69CSJxyHz/dsI2/577x1R4fa0nvcC4RIKXhN1YMNqtxHJ+yVzzJr0MZ2889Tkqnj/7dngLFkq2MfAI7lJqtVNECaEZTORm7ootE2m/2pgaNjGxX/fpSgWlRn7uVzPLT/If3A4Iefqial5WOJOazvhvy6ZC+jvGrsnJAt04cfPAwS7XAJha5koBuuh/FZ6WAKYDqGrO7UTifXvnSSY1Hz2998wUroHH9KtlFHsaDry+9w0FiyJQFNKypPITWzQmr6Yr/i3fokPemhwmGEcaZfEfbS0XntvdxM/KiV9rTbGq0jv21092z4lRTnDVFQeGpYqaIP62sJtE/Yl63NBOdkegUBc4EHsBF/CXVKPAOzVh0JHI=">
+        <div class="webar-sdk__scene js-webar-sdk__scene">
+          <span class="webar-sdk__status js-webar-sdk__status"></span>
+          <span class="webar-sdk__denied js-webar-sdk__denied">
+            <p>Please allow access to camera in your browser settings</p>
+          </span>
+          <div class="webar-sdk-effect__biometric-img webar-sdk-effect__biometric-img--first">
+            <img class="webar-sdk-effect__biometric-img-result" id="result-image-first">
+            <label class="webar-sdk-effect__biometric-photo-icon" for="first-image">
+              <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-photo-library-VGWDFB56A22wmM7EfeU0lHd4mMe5MU.svg">
+            </label>
+          </div>
+          <div class="webar-sdk-effect__biometric-img webar-sdk-effect__biometric-img--second">
+            <img class="webar-sdk-effect__biometric-img-result" id="result-image-second">
+            <label class="webar-sdk-effect__biometric-photo-icon" for="second-image">
+              <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-photo-library-VGWDFB56A22wmM7EfeU0lHd4mMe5MU.svg">
+            </label>
+          </div>
+          <div class="webar-sdk-effect__biometric-result hidden" id="biometric-match">
+            <span>Match</span>
+            <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/switch_camera-KI0Jem0PUS1zSE8aKpPhm3A9zy9cmx.svg">
+          </div>
+          <div class="webar-sdk-effect__biometric-result webar-sdk-effect__biometric-result--not-found hidden" id="biometric-not-found">
+            <span>Not found</span>
+            <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/switch_camera-KI0Jem0PUS1zSE8aKpPhm3A9zy9cmx.svg">
+          </div>
+          <div class="webar-sdk-effect__biometric-result webar-sdk-effect__biometric-result--error hidden" id="biometric-error">
+            <span>An unexpected error occurred.<br>Please try again</span>
+            <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/switch_camera-KI0Jem0PUS1zSE8aKpPhm3A9zy9cmx.svg">
+          </div>
+          <div class="webar-sdk-effect__info js-webar-sdk__info-skin webar-sdk-effect__info-error hidden">
+            <span>Skin Color</span>
+          </div>
+          <div class="webar-sdk-effect__info js-webar-sdk__info-hair webar-sdk-effect__info-error hidden">
+            <span>Hair Color</span>
+          </div>
+          <div class="webar-sdk-effect__info webar-sdk-effect__info-img js-webar-sdk__info-glasses hidden">
+            <div class="webar-sdk-effect__info-icon">
+              <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-glasses-6aoIA4c2p0uAkK30kVA3D7LOTnL4A6.svg">
+            </div>
+            <span>Glasses</span>
+          </div>
+          <div class="webar-sdk-effect__info webar-sdk-effect__info-img webar-sdk-effect__info-error js-webar-sdk__info-no-glasses hidden">
+            <div class="webar-sdk-effect__info-icon">
+              <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-no-glasses-cvWcxLUhkqwQscp9tWKZ1a9ptQI1Go.svg">
+            </div>
+            <span>Glasses</span>
+          </div>
+          <div class="webar-sdk-effect__info-items js-webar-sdk__info-beard-and-mustache hidden">
+            <div class="webar-sdk-effect__info webar-sdk-effect__info-img js-webar-sdk__info-beard hidden">
+              <div class="webar-sdk-effect__info-icon">
+                <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-beard-iFnufeLDVVyhXD8PjEvvIzrNSXbdRb.svg">
+              </div>
+              <span>Beard</span>
+            </div>
+            <div class="webar-sdk-effect__info webar-sdk-effect__info-img webar-sdk-effect__info-error js-webar-sdk__info-no-beard hidden">
+              <div class="webar-sdk-effect__info-icon">
+                <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-no-beard-XQs9Xxo2xg5y6uGyKschLz2Q8j9E6o.svg">
+              </div>
+              <span>Beard</span>
+            </div>
+            <div class="webar-sdk-effect__info webar-sdk-effect__info-img webar-sdk-effect__info-error js-webar-sdk__info-no-mustache hidden">
+              <div class="webar-sdk-effect__info-icon">
+                <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-no-mustache-8E6dFyJhfQdTTuZSeKEUBGqnf6abxr.svg">
+              </div>
+              <span>Mustache</span>
+            </div>
+            <div class="webar-sdk-effect__info webar-sdk-effect__info-img js-webar-sdk__info-mustache hidden">
+              <div class="webar-sdk-effect__info-icon">
+                <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-mustache-A5630iCO8dFlbsblgfZMMuQH71NT5x.svg">
+              </div>
+              <span>Mustache</span>
+            </div>
+          </div>
+          <div class="webar-sdk-effect__pd hidden">
+            <div class="webar-sdk-effect__pd-header">Put your face in the box Look slightly up</div>
+            <div class="webar-sdk-effect__pd-box"><div></div></div>
+          </div>
+          <div class="webar-sdk-effect__biometric step-1 hidden">
+            <div class="webar-sdk-effect__biometric-title">Biometric match</div>
+
+            <div class="webar-sdk-effect__biometric-desc webar-sdk-effect__biometric-step-1">Allows identifying the same
+              person in different photos/videos</div>
+            <div class="webar-sdk-effect__biometric-desc webar-sdk-effect__biometric-step-2">Please select the <bold>
+                initial photo</bold> of the person who will be checked</div>
+            <div class="webar-sdk-effect__biometric-desc webar-sdk-effect__biometric-step-3">Please select the main
+              photo to check for biometric match</div>
+
+            <div class="webar-sdk-effect__biometric-icon">
+              <picture class="webar-sdk-effect__biometric-step-1">
+                <source srcset="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-biometric-match-1-JlEV5PJljUHUk8jOZ9FVkWiqXabx2f.webp" type="image/webp">
+                <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-biometric-match-1-egFevvNyf6mmfbS04zm08E056WKEg1.png" alt="Biometric Match Icon">
+              </picture>
+
+              <picture class="webar-sdk-effect__biometric-step-2">
+                <source srcset="../media/BanubaSDK/icons/icon-biometric-match-2.webp" type="image/webp">
+                <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-biometric-match-2-MLQWz3mlsgA9HajIdSD29e5tDu8jgq.png" alt="Biometric Match Icon">
+              </picture>
+
+              <picture class="webar-sdk-effect__biometric-step-3">
+                <source srcset="../media/BanubaSDK/icons/icon-biometric-match-3.webp" type="image/webp">
+                <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-biometric-match-3-HzQfYbQKMTHAYHOVXW2qQoCEzGfoHG.png" alt="Biometric Match Icon">
+              </picture>
+            </div>
+            <div class="webar-sdk-effect__biometric-button webar-sdk-effect__biometric-step-1" id="biometric-button-1">
+              Got it</div>
+            <label for="first-image" class="webar-sdk-effect__biometric-button webar-sdk-effect__biometric-step-2" id="biometric-button-2">
+              Select photo</label>
+            <label for="second-image" class="webar-sdk-effect__biometric-button webar-sdk-effect__biometric-step-3" id="biometric-button-3">
+              Select photo</label>
+
+            <div class="webar-sdk-effect__biometric-inputs">
+              <input type="file" id="first-image" accept="image/png, image/gif, image/jpg, image/jpeg, image/*">
+              <input type="file" id="second-image" accept="image/png, image/gif, image/jpg, image/jpeg, image/*">
+            </div>
+          </div>
+          <div class="webar-sdk-popup js-webar-sdk__popup hidden">
+            <div class="webar-sdk-popup__title js-webar-sdk__popup-title">Error</div>
+            <div class="webar-sdk-popup__desc js-webar-sdk__popup-desc">Something went wrong.<br>Try again.</div>
+            <div class="webar-sdk-popup__button js-webar-sdk__popup-button">Reload</div>
+          </div>
+          <div class="webar-sdk__spinner-overlay webar-sdk__spinner-overlay--hidden"></div>
+        </div>
+
+        <div class="webar-sdk__left">
+          <div class="webar-sdk__left-top">
+<div class="webar-sdk-block ">
+  <div class="webar-sdk-block__inner">
+    <div class="webar-sdk-block__top js-webar-sdk__accord-toggle">
+      <div class="webar-sdk-block__top-icon"></div>
+      <div class="webar-sdk-block__top-title"></div>
+    </div>
+    <div class="webar-sdk-block__content js-webar-sdk__accord-content">
+      <div class="webar-sdk-block__content-inner">
+                    <div class="webar-sdk-techs js-webar-sdk__tech">
+                      <div class="webar-sdk-techs__list">
+                      </div>
+                    </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@banuba/webar@1.16.0/dist/BanubaSDK.browser.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>          </div>
+        </div>
+
+        <div class="webar-sdk__right"></div>
+        <div class="webar-sdk-effect__trigger-tip hidden">
+          <div class="webar-sdk-effect__trigger-tip-inner"></div>
+        </div>
+        <div class="webar-sdk__spinner hidden">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+        <div class="webar-sdk__top">
+          <div class="webar-sdk-effect__tips hidden">
+            <div class="webar-sdk-effect__tips-inner"></div>
+            <button class="webar-sdk-effect__tips-button">Close</button>
+          </div>
+          <div class="webar-sdk-effect__result hidden"></div>
+          <div class="webar-sdk-effect__control"></div>
+          <div class="webar-sdk-effect__items js-webar-sdk__effects swiper"></div>
+        </div>
+        <div class="webar-sdk__bottom">
+          <div class="webar-sdk-effect__group-list js-webar-sdk__radio swiper"></div>
+          <div class="webar-sdk-effect__type-list js-webar-sdk__slider swiper"></div>
+        </div>
+
+        <div class="webar-sdk__menu js-webar-sdk__menu hidden">
+          <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-chevron-ZUIy1m6N37sgwH4qosS84X2ohHf6ZJ.svg">
+        </div>
+
+        <div class="webar-sdk__camera js-webar-sdk__switch_camera hidden">
+          <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/switch_camera-KI0Jem0PUS1zSE8aKpPhm3A9zy9cmx.svg">
+        </div>
+        <div class="webar-sdk__info js-webar-sdk__info hidden">
+          <img src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-info-dJwN1LVkNklk9owMofmHCVHYpbDJR8.svg">
+        </div>
+        <div class="webar-sdk__fps js-webar-sdk__fps hidden"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+
+</div>
+
+
+<script src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/vendors-6OZMn8IGBKRSCZ6i2xsS0optqjNqcc.js"></script>
+  <script src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/main-K0XWhF0oHN9zfAcUQzamiU1vkC6Q8r.js"></script>    <script src="https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/webarsdk-fM7dJofL4IA23TkiWbmBBmhJJ9dZMV.js"></script>  <script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function () {
+    console.log("Page loaded");
+
+    setTimeout(function () {
+      document.getElementById("realtime").scrollIntoView({
+        behavior: "smooth",
+        block: "center",
+        inline: "center"
+      });
+    }, 250);
+  });
+  </script>
+
+</body>
+</html>

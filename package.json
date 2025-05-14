@@ -1,0 +1,13 @@
+{
+  "name": "koodall-site-ar",
+  "version": "0.1.13",
+  "description": "Koodall AR Website",
+  "scripts": {
+    "start": "http-server . -p 3000",
+    "dev": "http-server . -p 3000"
+  },
+  "dependencies": {
+    "@banuba/webar": "^1.16.0",
+    "http-server": "^14.1.1"
+  }
+} 
