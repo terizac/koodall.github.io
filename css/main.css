@@ -3269,7 +3269,7 @@ code.hljs {
 .header__logo {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 90px;
   height: 20px;
@@ -3279,7 +3279,7 @@ code.hljs {
 .header--dark:not(.fixed) .header__logo {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 90px;
   height: 20px;
@@ -3288,7 +3288,7 @@ code.hljs {
 .header--white .header__logo {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 90px;
   height: 20px;
@@ -3298,7 +3298,7 @@ code.hljs {
   .header--white .header__logo {
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 74px;
     height: 16px;
@@ -3310,7 +3310,7 @@ code.hljs {
     margin-left: 64px;
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 74px;
     height: 16px;
@@ -3448,7 +3448,7 @@ code.hljs {
   margin-bottom: 2px;
   width: 100%;
   height: 100%;
-  background-image: url("../media/images/logo/logo-color.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/media/images/logo/logo-color.svg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -3609,7 +3609,7 @@ body.footer-no-form .footer {
 .footer__logo {
   width: 100px;
   height: 20px;
-  background-image: url("../media/images/logo/logo-white.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/media/images/logo/logo-white.svg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -3636,7 +3636,7 @@ body.footer-no-form .footer {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 12px;
   height: 10px;
@@ -3658,7 +3658,7 @@ body.footer-no-form .footer {
 .footer__email:hover:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 12px;
   height: 10px;
@@ -3816,7 +3816,7 @@ body.footer-no-form .footer {
 .footer-socials__link--facebook {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 16px;
   height: 16px;
@@ -3825,7 +3825,7 @@ body.footer-no-form .footer {
 .footer-socials__link--facebook:hover {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 16px;
   height: 16px;
@@ -3834,7 +3834,7 @@ body.footer-no-form .footer {
 .footer-socials__link--linkedin {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 17px;
   height: 16px;
@@ -3843,7 +3843,7 @@ body.footer-no-form .footer {
 .footer-socials__link--linkedin:hover {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 17px;
   height: 16px;
@@ -3852,7 +3852,7 @@ body.footer-no-form .footer {
 .footer-socials__link--youtube {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 16px;
   height: 14px;
@@ -3861,7 +3861,7 @@ body.footer-no-form .footer {
 .footer-socials__link--youtube:hover {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 16px;
   height: 14px;
@@ -3870,7 +3870,7 @@ body.footer-no-form .footer {
 .footer-socials__link--twitter {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 16px;
   height: 16px;
@@ -3879,7 +3879,7 @@ body.footer-no-form .footer {
 .footer-socials__link--twitter:hover {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 16px;
   height: 16px;
@@ -3888,7 +3888,7 @@ body.footer-no-form .footer {
 .footer-socials__link--instagram {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 17px;
   height: 16px;
@@ -3897,7 +3897,7 @@ body.footer-no-form .footer {
 .footer-socials__link--instagram:hover {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 17px;
   height: 16px;
@@ -4102,7 +4102,7 @@ body.footer-no-form .footer-2022 {
   opacity: 0;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 54px;
@@ -4118,7 +4118,7 @@ body.footer-no-form .footer-2022 {
   .popup__close {
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 60px;
     height: 54px;
@@ -4129,7 +4129,7 @@ body.footer-no-form .footer-2022 {
   .popup__close {
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 60px;
     height: 54px;
@@ -4948,7 +4948,7 @@ body.footer-no-form .footer-2022 {
   height: 5px;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 8px;
   height: 5px;
@@ -5204,7 +5204,7 @@ body.footer-no-form .footer-2022 {
   left: 1px;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 6px;
   height: 6px;
@@ -5234,7 +5234,7 @@ body.footer-no-form .footer-2022 {
   position: absolute;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 6px;
   height: 7px;
@@ -5587,7 +5587,7 @@ body.footer-no-form .footer-2022 {
   position: absolute;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 6px;
   height: 7px;
@@ -6348,7 +6348,7 @@ body .header-dropdown *:hover {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 10px;
   height: 10px;
@@ -6396,7 +6396,7 @@ body .header-dropdown *:hover {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 40px;
   height: 40px;
@@ -6961,7 +6961,7 @@ body .header-dropdown *:hover {
 .feature-item ul li::before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 18px;
   height: 18px;
@@ -7770,7 +7770,7 @@ body .header-dropdown *:hover {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 10px;
   height: 10px;
@@ -7789,7 +7789,7 @@ body .header-dropdown *:hover {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 10px;
   height: 10px;
@@ -7876,7 +7876,7 @@ body .header-dropdown *:hover {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 18px;
   height: 18px;
@@ -7891,7 +7891,7 @@ body .header-dropdown *:hover {
   .header-language__current:before {
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 28px;
     height: 28px;
@@ -7902,7 +7902,7 @@ body .header-dropdown *:hover {
   .header-language__current:before {
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 24px;
     height: 24px;
@@ -8036,7 +8036,7 @@ body .header-dropdown *:hover {
     position: absolute;
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 8px;
     height: 6px;
@@ -8321,7 +8321,7 @@ body .header-dropdown *:hover {
     content: "";
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 8px;
     height: 6px;
@@ -8384,7 +8384,7 @@ body .header-dropdown *:hover {
 .header-dropdown-item__icon--company:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 42px;
   height: 42px;
@@ -8419,7 +8419,7 @@ body .header-dropdown *:hover {
     transform: translate(0, -50%);
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 6px;
     height: 10px;
@@ -8953,7 +8953,7 @@ body .header-dropdown *:hover {
   position: absolute;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 6px;
   height: 7px;
@@ -8975,7 +8975,7 @@ body .header-dropdown *:hover {
 .hero__btn:nth-child(2) > *:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 6px;
   height: 7px;
@@ -9995,7 +9995,7 @@ body .header-dropdown *:hover {
 .article-next__item::before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 20px;
@@ -10309,7 +10309,7 @@ body .header-dropdown *:hover {
   z-index: 10;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 30px;
   height: 30px;
@@ -10363,7 +10363,7 @@ body .header-dropdown *:hover {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 18px;
   height: 18px;
@@ -10372,7 +10372,7 @@ body .header-dropdown *:hover {
 figure .socials [data-social=facebook]::before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 20px;
@@ -10382,7 +10382,7 @@ figure .socials [data-social=facebook]::before {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 18px;
   height: 16px;
@@ -10391,7 +10391,7 @@ figure .socials [data-social=facebook]::before {
 figure .socials [data-social=linkedIn]::before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 20px;
@@ -10401,7 +10401,7 @@ figure .socials [data-social=linkedIn]::before {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 16px;
@@ -10410,7 +10410,7 @@ figure .socials [data-social=linkedIn]::before {
 figure .socials [data-social=twitter]::before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 20px;
@@ -10426,7 +10426,7 @@ figure .socials [data-social=twitter]::before {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 18px;
   height: 18px;
@@ -10436,7 +10436,7 @@ figure .socials [data-social=twitter]::before {
 figure .socials [data-copy=clipboard]::before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 20px;
@@ -10652,7 +10652,7 @@ figure .socials [data-copy=clipboard]::before {
   transform: translateY(-50%) rotate(180deg);
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 10px;
   height: 6px;
@@ -11108,7 +11108,7 @@ figure .socials [data-copy=clipboard]::before {
   top: 0px;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 71px;
   height: 70px;
@@ -11118,7 +11118,7 @@ figure .socials [data-copy=clipboard]::before {
   .contact-form .submitted-message:before {
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 71px;
     height: 70px;
@@ -11129,7 +11129,7 @@ figure .socials [data-copy=clipboard]::before {
   .contact-form .submitted-message:before {
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 71px;
     height: 70px;
@@ -11925,7 +11925,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   z-index: 10;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 8px;
   height: 6px;
@@ -12151,7 +12151,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   height: 6px;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 8px;
   height: 6px;
@@ -12296,7 +12296,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   height: 6px;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 8px;
   height: 6px;
@@ -13612,7 +13612,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .subscribe__success-text::before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 35px;
   height: 24px;
@@ -14027,7 +14027,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 54px;
@@ -14052,7 +14052,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 16px;
   height: 20px;
@@ -14265,7 +14265,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   left: 20px;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 14px;
@@ -14280,7 +14280,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   right: 20px;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 14px;
@@ -14918,7 +14918,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 42px;
   height: 42px;
@@ -16503,7 +16503,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   display: inline-block;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 20px;
@@ -16530,7 +16530,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   display: inline-block;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 20px;
@@ -17202,7 +17202,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .webar-sdk-effect__type-list__button-left__arrow:after {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 12px;
   height: 18px;
@@ -17232,7 +17232,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .webar-sdk-effect__type-list__button-right__arrow:after {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 12px;
   height: 18px;
@@ -18152,27 +18152,27 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 }
 
 .js-webar-sdk__info-glasses {
-  background-image: url('https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-glasses-6aoIA4c2p0uAkK30kVA3D7LOTnL4A6.svg');
+  background-image: url(https://terizac.github.io/koodall.github.io/media/BanubaSDK/icons/icon-glasses.svg);
 }
 
 .js-webar-sdk__info-no-glasses {
-  background-image: url('https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-no-glasses-cvWcxLUhkqwQscp9tWKZ1a9ptQI1Go.svg');
+  background-image: url(https://terizac.github.io/koodall.github.io/media/BanubaSDK/icons/icon-no-glasses.svg);
 }
 
 .js-webar-sdk__info-beard {
-  background-image: url('https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-beard-iFnufeLDVVyhXD8PjEvvIzrNSXbdRb.svg');
+  background-image: url(https://terizac.github.io/koodall.github.io/media/BanubaSDK/icons/icon-beard.svg);
 }
 
 .js-webar-sdk__info-no-beard {
-  background-image: url('https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-no-beard-XQs9Xxo2xg5y6uGyKschLz2Q8j9E6o.svg');
+  background-image: url(https://terizac.github.io/koodall.github.io/media/BanubaSDK/icons/icon-no-beard.svg);
 }
 
 .js-webar-sdk__info-no-mustache {
-  background-image: url('https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-no-mustache-8E6dFyJhfQdTTuZSeKEUBGqnf6abxr.svg');
+  background-image: url(https://terizac.github.io/koodall.github.io/media/BanubaSDK/icons/icon-no-mustache.svg);
 }
 
 .js-webar-sdk__info-mustache {
-  background-image: url('https://ap1e8uquc2ye8pet.public.blob.vercel-storage.com/BanubaSDK/icons/icon-mustache-A5630iCO8dFlbsblgfZMMuQH71NT5x.svg');
+  background-image: url(https://terizac.github.io/koodall.github.io/media/BanubaSDK/icons/icon-mustache.svg);
 }
 
 .webar-sdk .swiper-wrapper {
@@ -18260,7 +18260,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   pointer-events: none;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 19px;
   height: 20px;
@@ -18275,7 +18275,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   left: 50%;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 20px;
@@ -18332,7 +18332,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   pointer-events: none;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 24px;
   height: 24px;
@@ -18369,7 +18369,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .video-block__fullscreen.full:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 24px;
   height: 24px;
@@ -19709,7 +19709,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   display: block;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 8px;
   height: 6px;
@@ -21481,7 +21481,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .tabs-features__right-btn--apple {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 108px;
   height: 40px;
@@ -21490,7 +21490,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .tabs-features__right-btn--google {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 108px;
   height: 40px;
@@ -22048,7 +22048,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   height: 5px;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 8px;
   height: 5px;
@@ -22934,7 +22934,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   position: absolute;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 6px;
   height: 7px;
@@ -23048,7 +23048,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .home-hero-slider__link-icon--android:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 36px;
   height: 36px;
@@ -23057,7 +23057,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .home-hero-slider__link-icon--flutter:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 36px;
   height: 36px;
@@ -23066,7 +23066,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .home-hero-slider__link-icon--ios:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 36px;
   height: 36px;
@@ -23075,7 +23075,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .home-hero-slider__link-icon--reactnative:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 36px;
   height: 36px;
@@ -23084,7 +23084,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .home-hero-slider__link-icon--expo:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 36px;
   height: 36px;
@@ -23093,7 +23093,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .home-hero-slider__link-icon--desktop:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 36px;
   height: 36px;
@@ -23102,7 +23102,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .home-hero-slider__link-icon--unity:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 36px;
   height: 36px;
@@ -23111,7 +23111,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .home-hero-slider__link-icon--web:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 36px;
   height: 36px;
@@ -23487,7 +23487,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .image-section__socials > span._web:after {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 16px;
   height: 26px;
@@ -23496,7 +23496,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .image-section__socials > span._ios:after {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 14px;
   height: 28px;
@@ -23505,7 +23505,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .image-section__socials > span._macos:after {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 23px;
   height: 28px;
@@ -23514,7 +23514,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .image-section__socials > span._windows:after {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 28px;
   height: 26px;
@@ -23523,7 +23523,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .image-section__socials > span._android:after {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 26px;
   height: 23px;
@@ -23532,7 +23532,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .image-section__socials > span._unity:after {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 28px;
@@ -23541,7 +23541,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .image-section__socials > span._react:after {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 19px;
   height: 26px;
@@ -23550,7 +23550,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .image-section__socials > span._flutter:after {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 23px;
   height: 27px;
@@ -24179,7 +24179,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
     left: 0;
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 44px;
     height: 32px;
@@ -24189,7 +24189,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
     right: 0;
     display: block;
     background-color: transparent;
-    background-image: url("../images/sprite.svg");
+    background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
     background-size: 5956px 3804px;
     width: 44px;
     height: 32px;
@@ -24310,7 +24310,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .testimonials__button--left:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 16px;
@@ -24319,7 +24319,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .testimonials__button--right:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 16px;
@@ -24376,7 +24376,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .testimonials-white__item i.blockquoute-black-left:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 44px;
   height: 32px;
@@ -24393,7 +24393,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .testimonials-white__item i.blockquoute-black-right:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 44px;
   height: 32px;
@@ -24511,7 +24511,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .testimonials-white__button--left:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 16px;
@@ -24520,7 +24520,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .testimonials-white__button--right:before {
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 20px;
   height: 16px;
@@ -25146,7 +25146,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25156,7 +25156,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25166,7 +25166,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25176,7 +25176,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25186,7 +25186,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25196,7 +25196,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25206,7 +25206,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25216,7 +25216,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25226,7 +25226,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25236,7 +25236,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25246,7 +25246,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25256,7 +25256,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 60px;
   height: 42px;
@@ -25340,7 +25340,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   position: absolute;
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 6px;
   height: 7px;
@@ -25446,7 +25446,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 25px;
   height: 24px;
@@ -25456,7 +25456,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 24px;
   height: 24px;
@@ -25466,7 +25466,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   content: "";
   display: block;
   background-color: transparent;
-  background-image: url("../images/sprite.svg");
+  background-image: url("https://terizac.github.io/koodall.github.io/images/sprite.svg");
   background-size: 5956px 3804px;
   width: 25px;
   height: 25px;
@@ -26951,7 +26951,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 .home-hero-compare-video__slider-button {
   cursor: pointer;
   position: absolute;
-  background: #FFFFFF url("../media/images/other/drag_control_WEB.svg");
+  background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/drag_control_WEB.svg");
   border-radius: 60px;
   width: 60px;
   height: 60px;
@@ -26969,7 +26969,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
     left: -18px;
     filter: drop-shadow(0px 12px 24px rgba(25, 20, 40, 0.15));
     border-radius: 40px;
-    background: #FFFFFF url("../media/images/other/drag_control_TABLET.svg");
+    background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/drag_control_TABLET.svg");
     bottom: 180px;
   }
   .home-hero-compare-video__slider-button:hover {
@@ -26983,7 +26983,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
     left: -18px;
     filter: drop-shadow(0px 12px 24px rgba(25, 20, 40, 0.15));
     border-radius: 40px;
-    background: #FFFFFF url("../media/images/other/drag_control_TABLET.svg");
+    background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/drag_control_TABLET.svg");
     bottom: 180px;
   }
   .home-hero-compare-video__slider-button:hover {
@@ -27003,7 +27003,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
     bottom: 68px;
     filter: drop-shadow(0px 12px 24px rgba(25, 20, 40, 0.15));
     border-radius: 32px;
-    background: #FFFFFF url("../media/images/other/drag_control_MOBILE.svg");
+    background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/drag_control_MOBILE.svg");
   }
   .home-hero-compare-video__slider-button:hover {
     background-color: #F6F6FA;
@@ -27181,14 +27181,14 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   }
 }
 .home-hero-compare-video__controls--btn-left {
-  background: #FFFFFF url("../media/images/other/bttn_chevron_left_WEB.svg");
+  background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/bttn_chevron_left_WEB.svg");
 }
 .home-hero-compare-video__controls--btn-left:hover {
   background-color: #F6F6FA;
 }
 @media (min-width: 1265px) and (max-width: 1440px) {
   .home-hero-compare-video__controls--btn-left {
-    background: #FFFFFF url("../media/images/other/bttn_chevron_left_TABLET.svg");
+    background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/bttn_chevron_left_TABLET.svg");
   }
   .home-hero-compare-video__controls--btn-left:hover {
     background-color: #F6F6FA;
@@ -27196,7 +27196,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 }
 @media (min-width: 768px) and (max-width: 1264px) {
   .home-hero-compare-video__controls--btn-left {
-    background: #FFFFFF url("../media/images/other/bttn_chevron_left_TABLET.svg");
+    background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/bttn_chevron_left_TABLET.svg");
   }
   .home-hero-compare-video__controls--btn-left:hover {
     background-color: #F6F6FA;
@@ -27204,7 +27204,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 }
 @media (max-width: 767px) {
   .home-hero-compare-video__controls--btn-left {
-    background: #FFFFFF url("../media/images/other/bttn_chevron_left_MOBILE.svg");
+    background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/bttn_chevron_left_MOBILE.svg");
   }
   .home-hero-compare-video__controls--btn-left:hover {
     background-color: #F6F6FA;
@@ -27214,14 +27214,14 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
   right: 0;
   transform: rotate(180deg);
   filter: drop-shadow(0px -16px 32px rgba(25, 20, 40, 0.15));
-  background: #FFFFFF url("../media/images/other/bttn_chevron_left_WEB.svg");
+  background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/bttn_chevron_left_WEB.svg");
 }
 .home-hero-compare-video__controls--btn-right:hover {
   background-color: #F6F6FA;
 }
 @media (min-width: 1265px) and (max-width: 1440px) {
   .home-hero-compare-video__controls--btn-right {
-    background: #FFFFFF url("../media/images/other/bttn_chevron_left_TABLET.svg");
+    background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/bttn_chevron_left_TABLET.svg");
     filter: drop-shadow(0px -12px 24px rgba(25, 20, 40, 0.15));
   }
   .home-hero-compare-video__controls--btn-right:hover {
@@ -27230,7 +27230,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 }
 @media (min-width: 768px) and (max-width: 1264px) {
   .home-hero-compare-video__controls--btn-right {
-    background: #FFFFFF url("../media/images/other/bttn_chevron_left_TABLET.svg");
+    background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/bttn_chevron_left_TABLET.svg");
     filter: drop-shadow(0px -12px 24px rgba(25, 20, 40, 0.15));
   }
   .home-hero-compare-video__controls--btn-right:hover {
@@ -27239,7 +27239,7 @@ body .contact__form textarea.hs-input:-ms-input-placeholder {
 }
 @media (max-width: 767px) {
   .home-hero-compare-video__controls--btn-right {
-    background: #FFFFFF url("../media/images/other/bttn_chevron_left_MOBILE.svg");
+    background: #FFFFFF url("https://terizac.github.io/koodall.github.io/media/images/other/bttn_chevron_left_MOBILE.svg");
     filter: drop-shadow(0px -8px 16px rgba(25, 20, 40, 0.15));
   }
   .home-hero-compare-video__controls--btn-right:hover {
